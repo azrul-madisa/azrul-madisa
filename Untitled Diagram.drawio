@@ -1,1 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T07:32:12.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="jyZ7eNFyK3fcwUPoNyaI" version="14.9.7" type="github"><diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">7Vvbkto4EP0aHkP5jnkMk5nZh9nUVE1qd/MobGErkS1KFgHy9SuB5AviIggzqGbMC1Zblu0+p0+3GzPw74rVIwXz/G+SQjzwnHQ18L8MPM8NnJh/Cct6axkF0pBRlMpJjeEF/YbS6EjrAqWw6kxkhGCG5l1jQsoSJqxjA5SSZXfajODuWecgg5rhJQFYt/6LUpZLq+s4zY6/IMpyeeo4lDumIPmZUbIo5flKUsLtngKoZeTUKgcpWbZM/v3Av6OEsO1WsbqDWLhVeWx73MOBvfUlU1gykwO8aQBj1xtPHS8N4tHsk1zhF8AL6YZn7nN5sWytfFMtUYEBvy1/krMCc6PLN5Mc4fQJrMlCnLxi3A9qNMkJRb9JyYCazHdTJlHnV9me8SKO5GZh3fgRpnJU+0sMMJhCPKmdfUcwoXzXxt1ifUp+1siJM8744g+gQFgQ8h9IU1ACaZbXEfMhwCgr+XbCXQj5ehPdp8pJkDK4apmkjx8hKSCjaz5F7Y0l3ioU5HDZ8CpSU/IWpQI1EUguZ/XSDah8Q+JqiLGnYfwkoPQc1xDnI9BJaHSfHWTaaSdKp3mGTnPD13CaG2vOgSnXCzkklOUkIyXA9411h7wtD56iLvfvZyFhO7YHhJWH2xiEfAzLVB2RYFBVKPmWo3K7Qx7mbketg35AxtZyDBaMcFNzI0+EzGvAL4ml0xyQTKzIgibwwJxQSj+gGTy0TrSdIwA5yiQKMWDoV1fgr0qTUIstnTYY8xQmMF3miMGXOdjc+5Jn0S5JbJS+g2JirIVRVwojPar9PUHtv0ZMR6fBajBwTwP2XiByvS5GYTQMxq3PSINstA+y0WvkLkeDqJfht5DhkYEMx9bI8KiP7L2RXeuofZEd25c5PbvA8317Uuc+dC7XYe4kuv5P2jeD72IwDHuNPkejxwYarborFoj0uBfpvXEeWFx++X35dZPQVmF7PLZda2JbXe+x4ObxOhebxSoTHeThdF6UQ2ls00REDko4FIIuz6RCDBERhFPCGCkO82jg+bPNp7XGZxnATKA6mUOK+L2KSP5Cc1JMF9VzY5p0GrkZYHAJ1oIcC4aRoGPNynUxJeJqOcwAY4gflx3aa+JktfyEoT1lhqv3o/uqcKef4toDl6+hJTvLe4Lfos6ya9qPf53Wshf1SfXqSVUVKkeTqmeSVH17kqoSh3deMSsZubhhGYyH7YJ5HN2uYnZ1TdS1UPNtF6NOlTTDZJnkPEKHKUxQtSmF9uJ8pP44DrVFwHo7tUjodx+F3PB2yS44lOz0ZySbkp1/299Rvf531PNF1IAHgUm+C0zyXWhPvtND7F3mO3Wbl7fxR0On/fFvl+88vav3HVbXjPm+WXwdMTB5scI1fbNCEvMTh8Fxog455chYLuTizwTx+2umkNms4te5y836Gi6UGIMXNj5MeXa2Dum/SAn4m08U3K48U4t+4EKj1Qjd4vEHeU0M9613LTWKTNRoZE9pYvDuUN/ftrJ4CgJ7Rcv9IC+unA1aqFW8NyxxAw2Tj5ZZrl+yqnfPjyUJoxzhWZMjPL22/Ep66tyEOqoNe5Q7puVF87Az9lW2kLpUP1DY+bjj6fnlyk/nPSevy0nVAzuDlPE4GHVIaTcnff1vR1fpDg3Ddn+o5+Z53DR539uidwl9/afRPtfeijtGnUXTOq2VbEPVXP4jXeNOB+vWhLlQuWqP7KkmVxB2zqqeHx8OzHfDo/P5xvYK3lZk+xc3bxQMJg8t4zfSUT5s/lu+pVXz333//n8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-18T07:51:03.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="VJB9Q-nv2Rev14GHNYXI" version="14.9.7" type="github">
+  <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2b4e8129b02d487f-1" value="MLS Alpha" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="70" width="880" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-2" value="User" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="20" width="880" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-5" target="2b4e8129b02d487f-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-5" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="40" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-6" target="2b4e8129b02d487f-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-6" value="Fire up MLS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="100" y="56.49999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-7" target="D2Fl_MD_vU-XNPD0e_5B-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-7" value="Upload a data file&lt;br&gt;- Select features&lt;br&gt;- Select rows for training vs. validation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="200" y="25" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-9" value="Fire up model training&lt;br&gt;- Validation and will be done automatically&lt;br&gt;- Metric calculation will be done automatically" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-2" vertex="1">
+          <mxGeometry x="430" y="34.129999999999995" width="110" height="81.75" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="D2Fl_MD_vU-XNPD0e_5B-2" target="2b4e8129b02d487f-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-2" value="Configure algorithms to be used" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="330" y="48.25" width="70" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="D2Fl_MD_vU-XNPD0e_5B-7" target="D2Fl_MD_vU-XNPD0e_5B-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-7" value="Review metric" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="570" y="48.25" width="70" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-9" target="D2Fl_MD_vU-XNPD0e_5B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="2b4e8129b02d487f-2" source="D2Fl_MD_vU-XNPD0e_5B-6" target="D2Fl_MD_vU-XNPD0e_5B-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="134" />
+              <mxPoint x="365" y="134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 8px&quot;&gt;Happy with the metric?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="670" y="34.13" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-12" value="Deploy to runtime" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="800" y="47.379999999999995" width="70" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2b4e8129b02d487f-3" value="Runtime Environment" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="210" width="880" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-13" value="Model running in runtime as micro-service. Decisioning can be made through standard RESTful call" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="680" y="48.25" width="180" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="D2Fl_MD_vU-XNPD0e_5B-12" target="D2Fl_MD_vU-XNPD0e_5B-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D2Fl_MD_vU-XNPD0e_5B-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="164.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-31" value="MLS Beta" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="880" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-32" value="User" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-31">
+          <mxGeometry y="20" width="880" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-34" target="D2Fl_MD_vU-XNPD0e_5B-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-34" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="40" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-36" target="D2Fl_MD_vU-XNPD0e_5B-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-36" value="Using wizard, integrate data from FCS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="100" y="56.49999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-38" target="D2Fl_MD_vU-XNPD0e_5B-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-38" value="&lt;br&gt;- Select features&lt;br&gt;- Select rows for training vs. validation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="200" y="51.629999999999995" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-39" value="Fire up model training&lt;br&gt;- Validation and will be done automatically&lt;br&gt;- Metric calculation will be done automatically" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="430" y="34.129999999999995" width="110" height="81.75" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-41" target="D2Fl_MD_vU-XNPD0e_5B-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-41" value="Configure algorithms to be used" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="330" y="48.25" width="70" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-43" target="D2Fl_MD_vU-XNPD0e_5B-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-43" value="Review metric" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="570" y="48.25" width="70" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-39" target="D2Fl_MD_vU-XNPD0e_5B-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-46" target="D2Fl_MD_vU-XNPD0e_5B-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="134" />
+              <mxPoint x="365" y="134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-46" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 8px&quot;&gt;Happy with the metric?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="670" y="34.13" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-47" value="Deploy to runtime" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="800" y="47.379999999999995" width="70" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-48" value="FCS" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-31">
+          <mxGeometry y="210" width="880" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-49" value="Model running in runtime as micro-service. Decisioning can be made through standard RESTful call" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-48">
+          <mxGeometry x="680" y="48.25" width="180" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-55" value="FCS data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-48">
+          <mxGeometry x="105" y="48.25" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-31" source="D2Fl_MD_vU-XNPD0e_5B-47" target="D2Fl_MD_vU-XNPD0e_5B-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-56" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-31" source="D2Fl_MD_vU-XNPD0e_5B-55" target="D2Fl_MD_vU-XNPD0e_5B-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="290" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D2Fl_MD_vU-XNPD0e_5B-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="554.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-52" value="Feature ranking" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-53" value="Runtime Environment" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="820" width="880" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-54" value="Model running in runtime as micro-service. Decisioning can be made through standard RESTful call" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-53">
+          <mxGeometry x="680" y="48.25" width="180" height="53.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
