@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T07:51:03.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="VJB9Q-nv2Rev14GHNYXI" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T08:54:34.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="-3aAwHQDNaAMoio1unps" version="14.9.7" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -66,21 +66,30 @@
           <mxGeometry y="210" width="880" height="150" as="geometry" />
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-13" value="Model running in runtime as micro-service. Decisioning can be made through standard RESTful call" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
-          <mxGeometry x="680" y="48.25" width="180" height="53.5" as="geometry" />
+          <mxGeometry x="680" y="30" width="180" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-65" value="A pre-decision and post-decision model is also deploy to ensure main model quality" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="490" y="30" width="180" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="D2Fl_MD_vU-XNPD0e_5B-12" target="D2Fl_MD_vU-XNPD0e_5B-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-1" source="D2Fl_MD_vU-XNPD0e_5B-12" target="D2Fl_MD_vU-XNPD0e_5B-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="845" y="130.88" as="sourcePoint" />
+            <mxPoint x="780" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D2Fl_MD_vU-XNPD0e_5B-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="980" y="164.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-31" value="MLS Beta" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-31" value="MLS R1" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="460" width="880" height="360" as="geometry" />
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-32" value="User" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-31">
-          <mxGeometry y="20" width="880" height="190" as="geometry" />
+          <mxGeometry y="20" width="880" height="230" as="geometry" />
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-34" target="D2Fl_MD_vU-XNPD0e_5B-36">
           <mxGeometry relative="1" as="geometry" />
@@ -94,16 +103,14 @@
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-36" value="Using wizard, integrate data from FCS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
           <mxGeometry x="100" y="56.49999999999997" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-38" target="D2Fl_MD_vU-XNPD0e_5B-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="75" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-38" target="D2Fl_MD_vU-XNPD0e_5B-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-38" value="&lt;br&gt;- Select features&lt;br&gt;- Select rows for training vs. validation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-38" value="&lt;br&gt;- Select rows for training vs. validation" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
           <mxGeometry x="200" y="51.629999999999995" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-39" value="Fire up model training&lt;br&gt;- Validation and will be done automatically&lt;br&gt;- Metric calculation will be done automatically" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
-          <mxGeometry x="430" y="34.129999999999995" width="110" height="81.75" as="geometry" />
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-39" value="Fire up model training. Training will be automatically optimized through Auto-ML" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="430" y="49.13" width="110" height="52.62" as="geometry" />
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-41" target="D2Fl_MD_vU-XNPD0e_5B-39">
           <mxGeometry relative="1" as="geometry" />
@@ -114,37 +121,50 @@
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-43" target="D2Fl_MD_vU-XNPD0e_5B-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-43" value="Review metric" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-43" value="Review metrics of multiple model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
           <mxGeometry x="570" y="48.25" width="70" height="53.5" as="geometry" />
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-39" target="D2Fl_MD_vU-XNPD0e_5B-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-46" target="D2Fl_MD_vU-XNPD0e_5B-41">
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="134" />
-              <mxPoint x="365" y="134" />
+              <mxPoint x="710" y="10" />
+              <mxPoint x="365" y="10" />
             </Array>
+            <mxPoint x="365" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-46" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 8px&quot;&gt;Happy with the metric?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
           <mxGeometry x="670" y="34.13" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-47" value="Deploy to runtime" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-47" value="Pick multiple model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
           <mxGeometry x="800" y="47.379999999999995" width="70" height="53.5" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-48" value="FCS" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-31">
-          <mxGeometry y="210" width="880" height="150" as="geometry" />
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-52" target="D2Fl_MD_vU-XNPD0e_5B-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-49" value="Model running in runtime as micro-service. Decisioning can be made through standard RESTful call" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-48">
-          <mxGeometry x="680" y="48.25" width="180" height="53.5" as="geometry" />
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-52" value="Feature&amp;nbsp; selection and ranking" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="200" y="140" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-32" source="D2Fl_MD_vU-XNPD0e_5B-59" target="D2Fl_MD_vU-XNPD0e_5B-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="122" />
+              <mxPoint x="310" y="122" />
+              <mxPoint x="310" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-59" value="Select most salient feature" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-32">
+          <mxGeometry x="340" y="140" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-48" value="FCS" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-31">
+          <mxGeometry y="250" width="880" height="110" as="geometry" />
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-55" value="FCS data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-48">
-          <mxGeometry x="105" y="48.25" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-31" source="D2Fl_MD_vU-XNPD0e_5B-47" target="D2Fl_MD_vU-XNPD0e_5B-49">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="105" y="25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-56" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="D2Fl_MD_vU-XNPD0e_5B-31" source="D2Fl_MD_vU-XNPD0e_5B-55" target="D2Fl_MD_vU-XNPD0e_5B-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -157,14 +177,32 @@
             <mxPoint x="980" y="554.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-52" value="Feature ranking" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="600" width="100" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="D2Fl_MD_vU-XNPD0e_5B-53" value="Runtime Environment" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="820" width="880" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-54" value="Model running in runtime as micro-service. Decisioning can be made through standard RESTful call" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-53">
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-49" value="Models running in runtime as micro-service. Decisioning can be made through standard RESTful call" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-53">
           <mxGeometry x="680" y="48.25" width="180" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-67" value="A pre-decision and post-decision model is also deploy to ensure main models quality" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="D2Fl_MD_vU-XNPD0e_5B-53">
+          <mxGeometry x="490" y="48.25" width="180" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D2Fl_MD_vU-XNPD0e_5B-47" target="D2Fl_MD_vU-XNPD0e_5B-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1015" y="680" />
+              <mxPoint x="950" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2Fl_MD_vU-XNPD0e_5B-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D2Fl_MD_vU-XNPD0e_5B-47" target="D2Fl_MD_vU-XNPD0e_5B-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1025" y="590.8800000000001" as="sourcePoint" />
+            <mxPoint x="960" y="878.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1015" y="680" />
+              <mxPoint x="760" y="680" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
